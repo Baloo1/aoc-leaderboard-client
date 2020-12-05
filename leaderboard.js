@@ -27,7 +27,7 @@ for (let i = 0; i < 26; i++) {
 Time | Id | Name  
 --- | --- | ---  \n`;
         output += entries;
-        output += `  \n`
+        output += `  \n\n`
     }
 }
 
