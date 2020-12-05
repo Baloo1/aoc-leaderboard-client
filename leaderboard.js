@@ -16,7 +16,7 @@ const formatEntry = (id, s, name) => {
     return `${time}| ${id} | ${name}  `
 }
 
-let output = `# Leaderboard ${Object.values(input.owner_id)}  \n`;
+let output = `# Leaderboard ${input.owner_id}  \n`;
 for (let i = 0; i < 26; i++) {
 
     /*Credit to https://github.com/lindskogen/ for oneliner*/
