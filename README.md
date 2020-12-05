@@ -7,7 +7,8 @@ It then outputs it into a md file.
 Get your input from AoC. Paste it into input.json. Run with `npm start`. It will choose default input from input.json and expects it to exist. For any
 other input file start with `npm start INPUTFILENAME`. In the future this may be improved.
 
-You have to manually get the input from a leaderboards API section. 
+You have to manually get the input from a leaderboards API section. Can be found from [AoC website](https://adventofcode.com/2020/leaderboard/private/view/YOURIDHERE.json) 
+by replacing YOURIDHERE in the URL.
 
 ## Requirements
 
