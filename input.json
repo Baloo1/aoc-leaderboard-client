@@ -1,0 +1,316 @@
+{
+  "members": {
+    "1": {
+      "id": "1",
+      "stars": 10,
+      "global_score": 0,
+      "last_star_ts": "1607150658",
+      "local_score": 60,
+      "completion_day_level": {
+        "1": {
+          "2": {
+            "get_star_ts": "1606801818"
+          },
+          "1": {
+            "get_star_ts": "1606801616"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1606885933"
+          },
+          "2": {
+            "get_star_ts": "1606886347"
+          }
+        },
+        "3": {
+          "2": {
+            "get_star_ts": "1606975819"
+          },
+          "1": {
+            "get_star_ts": "1606974791"
+          }
+        },
+        "5": {
+          "2": {
+            "get_star_ts": "1607150658"
+          },
+          "1": {
+            "get_star_ts": "1607150191"
+          }
+        },
+        "4": {
+          "2": {
+            "get_star_ts": "1607062745"
+          },
+          "1": {
+            "get_star_ts": "1607059204"
+          }
+        }
+      },
+      "name": "Person 1"
+    },
+    "2": {
+      "stars": 10,
+      "id": "2",
+      "global_score": 0,
+      "last_star_ts": "1607150427",
+      "local_score": 60,
+      "name": "Person 2",
+      "completion_day_level": {
+        "3": {
+          "1": {
+            "get_star_ts": "1606973704"
+          },
+          "2": {
+            "get_star_ts": "1606974005"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1606799545"
+          },
+          "1": {
+            "get_star_ts": "1606799454"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1606888620"
+          },
+          "1": {
+            "get_star_ts": "1606886174"
+          }
+        },
+        "4": {
+          "2": {
+            "get_star_ts": "1607062836"
+          },
+          "1": {
+            "get_star_ts": "1607060409"
+          }
+        },
+        "5": {
+          "2": {
+            "get_star_ts": "1607150427"
+          },
+          "1": {
+            "get_star_ts": "1607149876"
+          }
+        }
+      }
+    },
+    "3": {
+      "last_star_ts": "1607075150",
+      "local_score": 22,
+      "completion_day_level": {
+        "4": {
+          "1": {
+            "get_star_ts": "1607075150"
+          }
+        },
+        "3": {
+          "2": {
+            "get_star_ts": "1607001405"
+          },
+          "1": {
+            "get_star_ts": "1607000219"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1606852875"
+          },
+          "1": {
+            "get_star_ts": "1606852707"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1606895909"
+          },
+          "2": {
+            "get_star_ts": "1606903775"
+          }
+        }
+      },
+      "name": "Person 3",
+      "id": "3",
+      "stars": 7,
+      "global_score": 0
+    },
+    "4": {
+      "stars": 7,
+      "id": "4",
+      "global_score": 0,
+      "last_star_ts": "1607076016",
+      "local_score": 11,
+      "name": "Person 4",
+      "completion_day_level": {
+        "4": {
+          "1": {
+            "get_star_ts": "1607076016"
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": "1606836683"
+          },
+          "2": {
+            "get_star_ts": "1606837174"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1606939643"
+          },
+          "1": {
+            "get_star_ts": "1606939098"
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": "1607033505"
+          },
+          "2": {
+            "get_star_ts": "1607035363"
+          }
+        }
+      }
+    },
+    "5": {
+      "global_score": 0,
+      "stars": 7,
+      "id": "5",
+      "name": "Person 5",
+      "completion_day_level": {
+        "4": {
+          "1": {
+            "get_star_ts": "1607068171"
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": "1607013036"
+          },
+          "2": {
+            "get_star_ts": "1607014582"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1606924104"
+          },
+          "1": {
+            "get_star_ts": "1606922368"
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": "1606835212"
+          },
+          "2": {
+            "get_star_ts": "1606847555"
+          }
+        }
+      },
+      "local_score": 17,
+      "last_star_ts": "1607068171"
+    },
+    "6": {
+      "last_star_ts": "1607162053",
+      "local_score": 48,
+      "name": "Person 6",
+      "completion_day_level": {
+        "2": {
+          "2": {
+            "get_star_ts": "1606894018"
+          },
+          "1": {
+            "get_star_ts": "1606892937"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1606825993"
+          },
+          "1": {
+            "get_star_ts": "1606825328"
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": "1606981952"
+          },
+          "2": {
+            "get_star_ts": "1606984576"
+          }
+        },
+        "5": {
+          "2": {
+            "get_star_ts": "1607162053"
+          },
+          "1": {
+            "get_star_ts": "1607161515"
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": "1607066871"
+          },
+          "2": {
+            "get_star_ts": "1607072316"
+          }
+        }
+      },
+      "id": "6",
+      "stars": 10,
+      "global_score": 0
+    },
+    "7": {
+      "name": "Person 7",
+      "completion_day_level": {},
+      "last_star_ts": 0,
+      "local_score": 0,
+      "global_score": 0,
+      "id": "7",
+      "stars": 0
+    },
+    "8": {
+      "id": "8",
+      "stars": 6,
+      "global_score": 0,
+      "local_score": 18,
+      "last_star_ts": "1606991147",
+      "name": "Person 8",
+      "completion_day_level": {
+        "3": {
+          "1": {
+            "get_star_ts": "1606989232"
+          },
+          "2": {
+            "get_star_ts": "1606991147"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1606915839"
+          },
+          "1": {
+            "get_star_ts": "1606915825"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1606915951"
+          },
+          "1": {
+            "get_star_ts": "1606915928"
+          }
+        }
+      }
+    }
+  },
+  "event": "2020",
+  "owner_id": "1"
+}

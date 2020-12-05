@@ -1,0 +1,13 @@
+{
+  "name": "aoc-leaderboard-client",
+  "version": "0.0.1",
+  "description": "",
+  "main": "leaderboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node leaderboard.js"
+  },
+  "keywords": [],
+  "author": "Baloo",
+  "license": "MIT"
+}
