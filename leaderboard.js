@@ -25,7 +25,7 @@ for (let i = 0; i < 26; i++) {
         output +=
             `*Day ${i}*  \n
 Time | Part | Name  
---- | --- | ---  \n`;
+--- | :---: | :---  \n`;
         output += entries;
         output += `  \n\n`
     }
