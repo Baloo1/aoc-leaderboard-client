@@ -19,12 +19,12 @@ const formatEntry = (id, s, name) => {
 let output = `# Leaderboard ${input.owner_id}  \n`;
 for (let i = 0; i < 26; i++) {
 
-    /*Credit to https://github.com/lindskogen/ for oneliner*/
+    /* Credit to https://github.com/lindskogen/ for "magic script" */
     const entries = Object.values(input.members).flatMap(m => Object.entries(m.completion_day_level[i] ?? {}).map(([id, s]) => formatEntry(id, s, m.name))).sort().join("\n")
     if (entries) {
         output +=
             `*Day ${i}*  \n
-Time | Id | Name  
+Time | Part | Name  
 --- | --- | ---  \n`;
         output += entries;
         output += `  \n\n`
