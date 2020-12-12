@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Baloo",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
